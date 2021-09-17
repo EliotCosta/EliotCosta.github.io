@@ -10,10 +10,10 @@ locale                   : "fr"
 title                    : "Eliot Campos Costa"
 title_separator          : "-"
 name                     : &name "Eliot Campos Costa"
-description              : &description "personal description"
-url                      : https://EliotCosta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "First year Master's Student in the « Ecole Centrale de Lille », a graduate school of multi-disciplinary engineering and managment. Currently following a Double Degree (Master's) in Data Science at The University of Lille, I'm due to graduate in 2023"
+url                      : https://eliotcosta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "EliotCosta/EliotCosta.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Eliot Campos Costa"
+  avatar           : "photoCLA.jpg"
+  bio              : "I am a first year Master's Student in the « Ecole Centrale de Lille », a graduate school of multi-disciplinary engineering and managment. Currently following a Double Degree (Master's) in Data Science at The University of Lille, I am due to graduate in 2023"
+  location         : "Lille, FRANCE"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : "eliot.campos-costa@centrale.centralelille.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "EliotCosta"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://linkedin.com/in/eliot-campos-costa-386917193"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
