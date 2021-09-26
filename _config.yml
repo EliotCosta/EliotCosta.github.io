@@ -10,7 +10,7 @@ locale                   : "fr"
 title                    : "Eliot Campos Costa"
 title_separator          : "-"
 name                     : &name "Eliot Campos Costa"
-description              : &description "First year Master's Student in the « Ecole Centrale de Lille », a graduate school of multi-disciplinary engineering and managment. Currently following a Double Degree (Master's) in Data Science at The University of Lille, I'm due to graduate in 2023"
+description              : 
 url                      : https://eliotcosta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "EliotCosta/EliotCosta.github.io"
